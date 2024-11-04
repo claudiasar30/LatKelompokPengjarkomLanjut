@@ -1,0 +1,150 @@
+body {
+  font-family: "Poppins", times new roman;
+}
+
+button {
+  outline: none;
+  border: none;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.add_new {
+  padding: 10px 20px;
+  color: white;
+  background-color: dodgerblue;
+  text-decoration: none;
+}
+.table_section {
+  height: 65px;
+  overflow: auto;
+}
+table {
+  width: 100%;
+  table-layout: fixed;
+  min-width: 1000px;
+  border-collapse: collapse;
+  padding-top: 20px;
+  table-layout: fixed;
+  border: 1px solid black;
+}
+th {
+  background-color: #954caf;
+  color: white;
+  font-weight: bold;
+}
+td {
+  border-bottom: 2px solid #8b3f8f;
+  padding: 10px 20px;
+  word-break: break-all;
+  text-align: center;
+}
+
+td img {
+  object-fit: cover;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+tr:hover td {
+  color: #0298cf;
+  cursor: pointer;
+  background-color: #f6f9fc;
+}
+
+td button:nth-child(1) {
+  background-color: #a5bbc3;
+  text-decoration: none;
+  color: white;
+}
+
+table th:hover {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+table tr:hover {
+  background-color: #f5f5f5;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+td button:nth-child(2) {
+  background-color: red;
+}
+button .btn2 a {
+  text-decoration: none;
+  color: wheat;
+}
+.div2 {
+  border-radius: 10px;
+}
+
+.judul {
+  text-align: center;
+  margin-top: 10px;
+}
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="password"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="date"],
+select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="file"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #ad63af;
+  color: white;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #4caf50;
+}
+
+.container {
+  border-radius: 10px;
+  background-color: #e5e4e2;
+  padding: 20px;
+}
