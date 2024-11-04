@@ -1,0 +1,5 @@
+<h1 class="entry-title">Sistem Pendukung Keputusan (SPK) Metode Fuzzy AHP</h1>
+<p class="enttry-summary" style="display: none;">Demo source code sistem pendukung keputusan (SPK) Fuzzy dan AHP (Analytical Hierarchy Proccess) dengan PHP dan MySQL.</p>
+<div class="entry-content">
+    <p>F-AHP merupakan gabungan metode AHP dengan pendekatan konsep fuzzy (Raharjo dkk, 2002). F-AHP menutupi kelemahan yang terdapat pada AHP, yaitu permasalahan terhadap kriteria yang memiliki sifat subjektif lebih banyak. Ketidak pastian bilangan direpresentasikan dengan urutan skala. Untuk menentukan derajat keanggotaan pada F-AHP, digunakan aturan fungsi dalam bentuk bilangan fuzzy segitiga atau Triangular Fuzzy Number (TFN) yang disusun berdasarkan himpunan linguistik. Jadi, bilangan pada tingkat intensitas kepentingan pada AHP ditranformasikan ke dalam himpunan skala TFN. Chang (1996) mendefinisikan nilai intensitas AHP ke dalam skala fuzzy segitiga yaitu membagi tiap himpunan fuzzy dengan 2, kecuali untuk intensitas kepentingan 1</p>
+</div>

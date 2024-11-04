@@ -28,7 +28,7 @@ include 'functions.php';
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="?">SMA N 1 LUBUK ALUNG</a>
+				<a class="navbar-brand" href="?">SPK Fuzzy-AHP</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
@@ -65,7 +65,7 @@ include 'functions.php';
 	</div>
 	<footer class="footer bg-primary">
 		<div class="container">
-			<p>Copyright &copy; <?= date('Y') ?> razaqislamay06@gmail.Com <em class="pull-right">ABDUL RAZAQ ISLAMAY</em></p>
+			<p>Copyright &copy; <?= date('Y') ?> RumahSourceCode.Com <em class="pull-right">Updated 15 Oktober 2022</em></p>
 		</div>
 	</footer>
 
